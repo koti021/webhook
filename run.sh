@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello  run.sh"
+echo "Hello Kotish run.sh"
